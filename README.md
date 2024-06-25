@@ -1,7 +1,7 @@
 
 ![MVP Architecture](https://miro.medium.com/v2/resize:fit:720/format:webp/0*i9q7pRK5rZWNhT2n.png "Model-View-Presenter Architecture Diagram")
 
-# Desarrollo de Aplicación iOS con Arquitectura MVP
+# Desarrollo de aplicación iOS con arquitectura MVP
 
 ## Descripción General
 
