@@ -19,7 +19,7 @@ La arquitectura MVP separa la lógica de la aplicación en tres componentes inte
 
 - Listar productos en una vista de colección.
 - Ver información detallada sobre cada producto en una nueva vista.
-- Manejo de errores y notificaciones al usuario.
+- Manejo de errores y mensajes al usuario.
 
 ## Componentes
 
