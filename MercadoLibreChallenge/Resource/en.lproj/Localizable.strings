@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  MercadoLibreChallenge
+
+  Created by Jorge Gutierrez on 24/06/24.
+  
+*/
+"attribute_display" = "%@: %@";
+"currency_format" = "$ %.2f";
+"results_format" = "%d resultados";
+"not_available" = "N/A";
+"search_marketplace" = "Buscar en Mercado Libre";
+"select_location" = "Seleccionar ubicación";
+"location" = "Ubicación";
+"accept" = "Aceptar";
+"retry" = "Reintentar";
+"cancel" = "Cancelar";
+"close" = "Cerrar";
+"an_error_occurred" = "Error al obtener los datos. Verifique su conexión a Internet o intente nuevamente.";
