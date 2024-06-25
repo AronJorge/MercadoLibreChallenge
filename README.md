@@ -48,14 +48,16 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado CocoaPods en tu sis
 
 ```bash
 sudo gem install cocoapods
+```
+1. Clonar el repositorio:
+https://github.com/AronJorge/MercadoLibreChallenge.git
+
+```bash
 cd MercadoLibreChallenge
 pod install
 ```
 
 abrir MercadoLibreChallenge.xcworkspace
-
-1. Clonar el repositorio:
-https://github.com/AronJorge/MercadoLibreChallenge.git
 
 3. Ejecutar el proyecto:
 - Selecciona un dispositivo o simulador objetivo.
